@@ -9,37 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
+[PDF](/files/CV_Xiangyu_Zhang.pdf)
+======
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science and Technology, Tsinghua University, 2026 (expected)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jun. 2024 - Present: Research Assistant
+  * Institute for AI Industry Research, Tsinghua University
+  * Duties includes: RAG retriever designing and training
+  * Supervisor: Professor Weizhi Ma
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Mar. 2024 - Dec. 2024: Chief Information Officer / Project Manager
+  * Yixin Technology Inc.
+  * Duties included: Leading the IT team, overwatching the full-stack development.
+  * Main Co-founders: Lorcan Hao (UC Berkeley), Ralph Ruan (UC Berkeley Haas), Heyang Yu (Tsinghua University)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Oct. 2023 - Oct. 2024: Research Assistant
+  * Tsinghua Laboratory of Brain and Intelligence
+  * Duties included: fMRI fitting and visualizing
+  * Supervisor: Professor Sen Song
+
+* Aug. 2023 - Nov. 2023: Research Assistant
+  * Tsinghua Pervasive Human Computer Interaction Lab
+  * Duties included: Data-collecting, building baselines and assisting experiments
+  * Supervisor: Professor Yuanchun Shi
 
 Publications
 ======
@@ -47,18 +44,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Associate Leader of Tsinghua Ballroom Dance Team
+* Co-founder and CIO of Yixin Tech
+* Member of departmental student union, art dept.
+* Member of departmental tech associate, AI agent dept.
