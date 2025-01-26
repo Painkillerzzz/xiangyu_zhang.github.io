@@ -1,6 +1,6 @@
 ---
 title: "Ktransfer: Exploring Knowledge-Agnostic Prompt Domains for Cross-Domain Question Answering"
-excerpt: "We build and trained retrievers across knowledge-agnostic domains for multi-choice question answering."
+excerpt: "We built and trained retrievers across knowledge-agnostic domains for multi-choice question answering."
 collection: projects
 ---
 

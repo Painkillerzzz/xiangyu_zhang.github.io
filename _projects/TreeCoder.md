@@ -1,6 +1,6 @@
 ---
 title: "Enhancing LLM’s Coding Ability by Tree-Based Searching Methods"
-excerpt: "We implement MCTS and Tree of Thought to guide code synthesis based on execution feedback.<br/><img src='/xiangyu_zhang.github.io/images/projects/tree-search.png'>"
+excerpt: "We implemented MCTS and Tree of Thought to guide code synthesis based on execution feedback.<br/><img src='/xiangyu_zhang.github.io/images/projects/tree-search.png'>"
 collection: projects
 ---
 
