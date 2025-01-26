@@ -25,7 +25,7 @@ Work experience
 
 * Mar. 2024 - Dec. 2024: Chief Information Officer / Project Manager
   * Yixin Technology Inc.
-  * Duties included: Leading the IT team, overwatching the full-stack development.
+  * Duties included: Leading the IT team, overseeing the full-stack development.
   * Main Co-founders: Lorcan Hao (UC Berkeley), Ralph Ruan (UC Berkeley Haas), Heyang Yu (Tsinghua University)
 
 * Oct. 2023 - Oct. 2024: Research Assistant
