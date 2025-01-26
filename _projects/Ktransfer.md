@@ -15,4 +15,3 @@ This work sheds light on the importance of carefully designed retrievers for cro
 Slides: [Ktransfer Project Overview](/files/projects/Ktransfer_Project_Presentation.pdf)
 
 Link: Coming Soon
-[GitHub Repository](https://github.com/ljr040929/jittor-I_do_not_play_Honkai_StarRail-2)
