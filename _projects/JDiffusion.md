@@ -1,6 +1,6 @@
 ---
 title: "Controllable Image Generation and Artistic Style Transfer"
-excerpt: "We implement Dreambooth-LoRA and Text Inversion for style transfer based on Stable Diffusion v2.1.<br/><img src='/images/projects/diffusion.png'>"
+excerpt: "We implement Dreambooth-LoRA and Text Inversion for style transfer based on Stable Diffusion v2.1.<br/><img src='/xiangyu_zhang.github.io/images/projects/diffusion.png'>"
 collection: projects
 ---
 
