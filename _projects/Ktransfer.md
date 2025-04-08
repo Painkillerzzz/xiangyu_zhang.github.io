@@ -4,7 +4,7 @@ excerpt: "We built and trained retrievers across knowledge-agnostic domains for 
 collection: projects
 ---
 
-Knowledge transfer across domains has become a challenge in retrieve augmented generation (RAG), especially in scenarios where data from the target domain is scarce or unavailable. This project, Ktransfer, investigates whether knowledge-agnostic prompt domains (shot domains) can aid multi-choice question answering in a target domain (test domain). The study is conducted in two phases:
+Knowledge transfer across domains has become a challenge in retrieval-augmented generation (RAG), especially in scenarios where data from the target domain is scarce or unavailable. This project, Ktransfer, investigates whether knowledge-agnostic prompt domains (shot domains) can aid multi-choice question answering in a target domain (test domain). The study is conducted in two phases:
 
 1. Baseline Validation: Using cosine similarity as a naive retriever, we examine the effectiveness of few-shot examples from the shot domain in improving the target domain's performance. The results reveal negligible impact, highlighting the limitations of cosine similarity in knowledge-agnostic scenarios.
 
