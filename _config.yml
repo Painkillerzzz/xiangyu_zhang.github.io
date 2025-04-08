@@ -12,8 +12,8 @@ title                    : "Xiangyu Zhang's Website"
 title_separator          : "-"
 name                     : &name "Xiangyu Zhang"
 description              : &description "personal description"
-url                      : "https://xiangyu_zhang.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://painkillerzzz.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+baseurl                  : "/xiangyu_zhang.github.io" # the subpath of your site, e.g. "/blog"
 repository               : "Painkillerzzz/xiangyu_zhang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
