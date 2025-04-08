@@ -12,6 +12,6 @@ Knowledge transfer across domains has become a challenge in retrieval-augmented 
 
 This work sheds light on the importance of carefully designed retrievers for cross-domain knowledge transfer. It paves the way for more advanced retrieval strategies, such as incorporating domain-specific embeddings and contextual hints. Future directions include analyzing the retrieval model's performance across diverse domains and refining its architecture for improved scalability and efficiency.
 
-Slides: [Ktransfer Project Overview](/files/projects/Ktransfer_Project_Presentation.pdf)
+Slides: [Ktransfer Project Overview](/xiangyu_zhang.github.io/files/projects/Ktransfer_Project_Presentation.pdf)
 
 Link: Coming Soon

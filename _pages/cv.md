@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](/files/CV_Xiangyu_Zhang.pdf)
+[PDF](/xiangyu_zhang.github.io/files/CV_Xiangyu_Zhang.pdf)
 ======
 
 Education
