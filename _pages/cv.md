@@ -16,16 +16,21 @@ Education
 ======
 * B.S. in Computer Science and Technology, Tsinghua University, 2026 (expected)
 
-Work experience
+Experience
 ======
-* Jun. 2024 - Present: Research Assistant
+* Jan. 2025 - Present: Research Assistant
+  * Industrial Engineering and Operations Research, Univerisity of California, Berkeley
+  * Duties included: Building object inserting dataset
+  * Supervisor: Professor Zeyu Zheng
+
+* Jun. 2024 - Apr. 2025: Research Assistant
   * Institute for AI Industry Research, Tsinghua University
   * Duties includes: RAG retriever designing and training
   * Supervisor: Professor Weizhi Ma
 
 * Mar. 2024 - Dec. 2024: Chief Information Officer / Project Manager
   * Yixin Technology Inc.
-  * Duties included: Leading the IT team, overwatching the full-stack development.
+  * Duties included: Leading the IT team, overwatching the full-stack development
   * Main Co-founders: Lorcan Hao (UC Berkeley), Ralph Ruan (UC Berkeley Haas), Heyang Yu (Tsinghua University)
 
 * Oct. 2023 - Oct. 2024: Research Assistant
