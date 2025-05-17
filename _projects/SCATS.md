@@ -1,0 +1,17 @@
+---
+title: "Self-Certainty Guided Test-Time Scaling for Web Agents"
+excerpt: "We implemented a self-certainty guided R-MCTS method for web agents.<br/><img src='/xiangyu_zhang.github.io/images/projects/SCATS.png'>"
+collection: projects
+---
+
+Large language models (LLMs) are increasingly deployed in real-world interactive environments where response quality and decision efficiency are both critical. We propose a adaptive test-time scaling strategy facing response selection based on self-certainty, a confidence measure computed from the model’s own token-level log-probabilities to adaptively control branching and inference cost. 
+
+Evaluated on the VisualWebArena and WebArena benchmark, our method consistently outperforms the baselines, achieving a +3.6% improvement in average success rate while reducing prompt token usage by over 80%. These results highlight the utility of internal confidence estimation in balancing exploration and efficiency, paving the way for more selective and scalable test-time inference in LLM based agents.
+
+Video Presentation: Coming soon
+
+Report: [SC-ATS Project Overview](/xiangyu_zhang.github.io/files/projects/SCATS.pdf)
+
+<!-- [Enhancing LLM’s Coding Ability by Tree-Based Searching Methods](/files/projects/Reinforced_Learning_Project_Report.pdf) -->
+
+Link: Due to an unexpected server shutdown, we have to postpone the opensource time. We have posted this issue on Ed and received a grace period.
