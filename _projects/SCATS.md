@@ -8,9 +8,9 @@ Large language models (LLMs) are increasingly deployed in real-world interactive
 
 Evaluated on the VisualWebArena and WebArena benchmark, our method consistently outperforms the baselines, achieving a +3.6% improvement in average success rate while reducing prompt token usage by over 80%. These results highlight the utility of internal confidence estimation in balancing exploration and efficiency, paving the way for more selective and scalable test-time inference in LLM based agents.
 
-Video Presentation: Coming soon
+Video Presentation: [Video URL](https://drive.google.com/file/d/190pQZZ86I8k8q5mrGcUH2Isqd5wSNMV_/view?usp=drive_link)
 
-Report: [SC-ATS Project Overview](/xiangyu_zhang.github.io/files/projects/SCATS.pdf)
+Slides: [SC-ATS Project Overview](/xiangyu_zhang.github.io/files/projects/SCATS.pdf)
 
 <!-- [Enhancing LLM’s Coding Ability by Tree-Based Searching Methods](/files/projects/Reinforced_Learning_Project_Report.pdf) -->
 
