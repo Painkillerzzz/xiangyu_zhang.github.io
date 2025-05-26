@@ -12,6 +12,4 @@ Video Presentation: [Video URL](https://drive.google.com/file/d/190pQZZ86I8k8q5m
 
 Slides: [SC-ATS Project Overview](/xiangyu_zhang.github.io/files/projects/SCATS.pdf)
 
-<!-- [Enhancing LLM’s Coding Ability by Tree-Based Searching Methods](/files/projects/Reinforced_Learning_Project_Report.pdf) -->
-
-Link: Due to an unexpected server shutdown, we have to postpone the opensource time. We have posted this issue on Ed and received a grace period.
+Link: [GitHub Repository](https://github.com/Painkillerzzz/SC-ATS)
