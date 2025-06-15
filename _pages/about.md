@@ -11,10 +11,10 @@ I am Xiangyu Zhang, an undergraduate student in the Class of 2026 at Tsinghua Un
 
 ## News
 
- - I'm currently visiting Berkeley as an exchange student!
+ - 2026.01.15 - I'm currently visiting Berkeley as an exchange student!
 
 ## Research Interests
 
-My research interests focus on **NLP**. I am particularly interested in **enhancing reasoning abilities of LLM with Reinforcement Learning and tree-based methods**. During my undergraduate study, I have been exploring various areas of LLM studies, from understanding its inner workings to applying it to various tasks. These experiences have equipped me with a strong foundation in the field of NLP and have prepared me for the challenges ahead.
+My current research interests focus on **multimodal models for reasoning and generation**. During my undergraduate studies, I have explored reasoning in large language models (LLMs) and post-training techniques such as reinforcement learning for math and coding. I have worked on multimodal editing tasks using flow matching-based models. I have also explored areas like retrieval-augmented generation (RAG) and human-computer interaction (HCI), particularly in the context of multimodal planning. These experiences have provided me with a strong foundation in both LLMs and multimodal AI, preparing me for further research in this field.
 
 Feel free to contact me for collaboration or discussions related to my areas of interest!
