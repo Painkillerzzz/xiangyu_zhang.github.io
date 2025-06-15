@@ -11,7 +11,7 @@ I am Xiangyu Zhang, an undergraduate student in the Class of 2026 at Tsinghua Un
 
 ## News
 
- - 2026.01.15 - I'm currently visiting Berkeley as an exchange student!
+ - 2025.01.15 - I'm currently visiting UC Berkeley as an exchange student!
 
 ## Research Interests
 
