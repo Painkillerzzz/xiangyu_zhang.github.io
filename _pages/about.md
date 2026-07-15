@@ -7,14 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am Xiangyu Zhang, an undergraduate student in the Class of 2026 at Tsinghua University, majoring in Computer Science and Technology. I am currently preparing to apply for a PhD program to further pursue my academic and research goals.
+I am Xiangyu Zhang, an incoming PhD student in Industrial Engineering and Operations Research (IEOR) at the University of California, Berkeley, starting in Fall 2026. I received my B.S. in Computer Science and Technology from Tsinghua University in 2026, and visited UC Berkeley as an exchange student in Spring 2025.
 
 ## News
 
- - 2025.01.15 - I'm currently visiting UC Berkeley as an exchange student!
+ - 2026.08 - I will join the IEOR department at UC Berkeley as a PhD student!
+ - 2026.02 - Our paper *Thinking in 360°: Humanoid Visual Search in the Wild* was accepted to CVPR 2026!
+ - 2025.08 - Our paper *EDC²-RAG* was accepted to Findings of EMNLP 2025!
+ - 2025.01 - I started visiting UC Berkeley as an exchange student.
 
 ## Research Interests
 
-My current research interests focus on **multimodal models for reasoning and generation**. During my undergraduate studies, I have explored reasoning in large language models (LLMs) and post-training techniques such as reinforcement learning for math and coding. I have worked on multimodal editing tasks using flow matching-based models. I have also explored areas like retrieval-augmented generation (RAG) and human-computer interaction (HCI), particularly in the context of multimodal planning. These experiences have provided me with a strong foundation in both LLMs and multimodal AI, preparing me for further research in this field.
+My current research interests focus on **multimodal models for reasoning and generation**. During my undergraduate studies, I have worked on text-guided image editing and object insertion with generative models at UC Berkeley, embodied panoramic visual search with large multimodal models and reinforcement learning at NYU, and representation learning for medical image trajectory forecasting at Yale. I have also explored retrieval-augmented generation (RAG) at Tsinghua AIR, as well as GUI agents and human-computer interaction (HCI) at the Tsinghua Pervasive HCI Lab. These experiences have provided me with a strong foundation in both LLMs and multimodal models, preparing me for further research in this field.
 
 Feel free to contact me for collaboration or discussions related to my areas of interest!

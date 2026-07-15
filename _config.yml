@@ -22,11 +22,12 @@ repository               : "Painkillerzzz/xiangyu_zhang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Xiangyu Zhang (张翔宇)"
+  name             : "Xiangyu \"Jeremy\" Zhang"
+  name_zh          : "张翔宇"
   pronouns         : "he/him"
-  bio              : "Undergraduate student at Tsinghua University"
+  bio              : "Incoming PhD student at UC Berkeley IEOR"
   location         : "Berkeley, CA"
-  employer         : "Tsinghua University"
+  employer         : "UC Berkeley"
   uri              : # URL
   email            : "xiangyujeremyzhang@berkeley.edu" 
 
