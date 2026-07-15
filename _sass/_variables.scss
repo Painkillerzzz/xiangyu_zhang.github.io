@@ -47,7 +47,7 @@ $masthead-height            : 70px;
 
 /* Sidebar properties */
 $sidebar-screen-min-width   : 1024px;
-$sidebar-link-max-width     : 250px;
+$sidebar-link-max-width     : 300px;
 
 
 
@@ -128,6 +128,8 @@ $medium-wide                : 900px !default;
 $large                      : 925px !default;
 $x-large                    : 1280px !default;
 
+$max-width                  : 1280px !default; // max width of page content (masthead, main, hero)
+
 /*
    Grid
    ========================================================================== */
@@ -143,7 +145,7 @@ $susy: (
   math: fluid,
   output: float,
   gutter-position: after,
-  container: $large,
+  container: $max-width,
   global-box-sizing: border-box,
   // debug: (
   //   image: show,
